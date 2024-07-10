@@ -51,7 +51,7 @@ def load_poly_features():
 
 
 
-genres = ['Action','Adult','Adventure''Animation','Biography','Comedy','Crime','Documentary','Drama','Family','Fantasy',
+genres = ['Action','Adult','Adventure','Animation','Biography','Comedy','Crime','Documentary','Drama','Family','Fantasy',
           'History','Horror','Music','Musical','Mystery','News','Romance','Sci-Fi','Short','Sport','Thriller','War','Western']
 
 # Streamlit interface
